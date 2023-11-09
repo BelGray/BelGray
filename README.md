@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">⚡ Welcome to my GitHub profile ⚡</h1>
+<h1 align="center">⚡ Welcome to my GitHub profile ⚡</h1>
 <hr>
 
 <!--
